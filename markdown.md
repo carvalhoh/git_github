@@ -87,5 +87,5 @@ Pode-se criar uma lista de trarefas, colocando um (traço)(espaço) abre e fecha
 - [x] Criar repositório git_github
 - [x] Criar arquivo README.md
 - [x] Criar arquivo markdown.md
-- [] Continuar do Videoaula do Guia da Linguagem Markdown – Curso de Git e GitHub - 21:49
-- [] Ir alimentando o arquivo markdown.md
+- [ ] Continuar do Videoaula do Guia da Linguagem Markdown – Curso de Git e GitHub - 21:49
+- [ ] Ir alimentando o arquivo markdown.md
