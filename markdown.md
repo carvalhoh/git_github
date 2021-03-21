@@ -13,4 +13,4 @@ Usamos **MarkDown**:
 
 ### Como deixar em negrito
 
-Podemos usar **"2 *" ou "2 _" no início e no fim, da frase ou palavra**.
+Podemos usar **"2*" ou "2 _" no início e no fim, da frase ou palavra**.
