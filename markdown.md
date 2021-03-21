@@ -17,8 +17,8 @@ Podemos usar **"2 (asteriscos)" ou "2 _" no início e no fim, da frase ou palavr
 
 ### Como deixar em itálico
 
-Podemos usar __"1 (asterisco)" ou "1 _" no início e no fim, da frase ou palavra__.
+Podemos usar _"1 (asterisco)" ou "1 (underline)" no início e no fim, da frase ou palavra_.
 
-### Como deixar com risco
+### Como deixar com risco no meio
 
-Podemos usar ~~"2 acentos ~" no início e no fim, da frase ou palavra ~~.
+Podemos usar ~~"2 acentos tio" no início e no fim, da frase ou palavra~~.
