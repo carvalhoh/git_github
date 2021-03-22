@@ -104,5 +104,21 @@ Pode-se inserir links, com abre e fecha (colchetes), _dentro do colchetes_ coloc
 #### Minha midias
 
 [Meu GitHub](https://github.com/carvalhoh/)
+
 [Meu linkedin](https://www.linkedin.com/in/carvalhohebert/)
+
+### Criando tabelas
+
+Pode-se criar tabelas, inserindo:
+No Cabeçalho(se quiser cololar) o nome(espaço)(pipe), e assim até terminar o seu cabeçalho, inserindo o item e o (pipe).
+para inserir as informações da tabela, é o mesmo processo, só que na linha de baixo.
+
+Código | Nome | Nota
+---|---|---
+1 | Hebert | 9,3
+2 | Taty | 9,3
+3 | Bernardo | 9,0
+4 | Júlia | 9,0
+
+Terminou a tabela
 
