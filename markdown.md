@@ -92,7 +92,7 @@ Pode-se criar uma lista de trarefas, colocando um (traço)(espaço) um (espaço)
 
 ### Inserindo imagens
 
-Pode-se inserir imagens, colocando uma (exclamação), abre e fecha (colchetes), _dentro do colchetes_ colocar a descrição da imagen, despois abre e fecha (parenteses) URL ou caminha da imagen.
+Pode-se inserir imagens, colocando uma (exclamação), abre e fecha (colchetes), _dentro do colchetes_ colocar a descrição da imagen(caso ao tentar abrir o arquivo e não conseguir, aparecera a descição), despois abre e fecha (parenteses) URL ou caminha da imagen.
 
 
 ![GitHub 1](https://github.com/carvalhoh/git_github/blob/main/img/github-150x150.jpg?raw=true)
