@@ -87,12 +87,22 @@ Pode-se criar uma lista de trarefas, colocando um (traço)(espaço) um (espaço)
 - [x] Criar repositório git_github
 - [x] Criar arquivo README.md
 - [x] Criar arquivo markdown.md
-- [ ] Continuar do Videoaula do Guia da Linguagem Markdown – Curso de Git e GitHub - 21:49
+- [x] Continuar do Videoaula do Guia da Linguagem Markdown – Curso de Git e GitHub - 21:49
 - [ ] Ir alimentando o arquivo markdown.md
 
 ### Inserindo imagens
 
-Pode-se inserir imagens, colocando uma (exclamação), abre e fecha (colchetes), _dentro do colchetes_ colocar a descrição da imagen(caso ao tentar abrir o arquivo e não conseguir, aparecera a descição), despois abre e fecha (parenteses) URL ou caminha da imagen.
+Pode-se inserir imagens, colocando uma (exclamação), abre e fecha (colchetes), _dentro do colchetes_ colocar a descrição da imagen(caso ao tentar abrir o arquivo e não conseguir, aparecera a descição), depois abre e fecha (parenteses) URL ou caminha da imagen.
 
 
 ![GitHub 1](https://github.com/carvalhoh/git_github/blob/main/img/github-150x150.jpg?raw=true)
+
+### Inserindo links
+
+Pode-se inserir links, com abre e fecha (colchetes), _dentro do colchetes_ colocar a palavra ou frase, que será mostrada, depois abre e fecha (parenteses) URL ou caminha da imagen.
+
+#### Minha midias
+
+[Meu GitHub](https://github.com/carvalhoh/)
+[Meu linkedin](https://www.linkedin.com/in/carvalhohebert/)
+
