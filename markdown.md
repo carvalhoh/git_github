@@ -130,6 +130,7 @@ Pode-se inserir códigos, abrindo e fechando um (acento indicativo de Crase) e d
 ```
 `código`
 ```
+![Exemplo código em muitas linhas](https://github.com/carvalhoh/git_github/blob/main/img/codigos.JPG)
 
 ```
 Código | Nome | Nota
