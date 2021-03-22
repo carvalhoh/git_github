@@ -94,4 +94,6 @@ Pode-se criar uma lista de trarefas, colocando um (traço)(espaço) um (espaço)
 
 Pode-se inserir imagens, colocando uma (exclamação), abre e fecha (colchetes), _dentro do colchetes_ colocar a descrição da imagen, despois abre e fecha (parenteses) URL ou caminha da imagen.
 
-![GitHub](./github-150x150)
+
+![GitHub 1](./github-150x150.jpg)
+![GitHub 2](.\github-150x150.jpg)
