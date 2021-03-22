@@ -122,3 +122,10 @@ Código | Nome | Nota
 
 Terminou a tabela
 
+### Inserindo comandos
+
+Pode-se inserir códigos, abrindo e fechando um (acento indicativo de Crase) e dentro deles inserir o código, para um código pequeno, se for um código de várias linhas, abre e fecha três (acentos indicativos de Crase)
+**Exemplo:**
+```
+`código`
+```
