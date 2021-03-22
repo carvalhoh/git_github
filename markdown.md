@@ -19,19 +19,19 @@ se colocar uma (hashtag ou Tralha): Título 1
 
 se colocar duas (hashtag ou Tralha): Título 1
 **Exemplo**:
-# Titulo 2
+## Titulo 2
 se colocar três (hashtag ou Tralha): Título 1
 **Exemplo**:
-# Titulo 3
+### Titulo 3
 se colocar quatro (hashtag ou Tralha): Título 1
 **Exemplo**:
-# Titulo 4
+#### Titulo 4
 se colocar cinco (hashtag ou Tralha): Título 1
 **Exemplo**:
-# Titulo 5
+##### Titulo 5
 se colocar seis (hashtag ou Tralha): Título 1
 **Exemplo**:
-# Titulo 6
+##### Titulo 6
 ***
 ### Como deixar em negrito
 
@@ -90,10 +90,9 @@ Pode-se criar uma lista de trarefas, colocando um (traço)(espaço) um (espaço)
 - [ ] Continuar do Videoaula do Guia da Linguagem Markdown – Curso de Git e GitHub - 21:49
 - [ ] Ir alimentando o arquivo markdown.md
 
-### inserindo links
+### Inserindo imagens
 
 Pode-se inserir imagens, colocando uma (exclamação), abre e fecha (colchetes), _dentro do colchetes_ colocar a descrição da imagen, despois abre e fecha (parenteses) URL ou caminha da imagen.
 
 
-![GitHub 1](./github-150x150.jpg)
-![GitHub 2](.\github-150x150.jpg)
+![GitHub 1](https://github.com/carvalhoh/git_github/blob/main/img/github-150x150.jpg?raw=true)
