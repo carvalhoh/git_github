@@ -131,12 +131,11 @@ Pode-se inserir códigos, abrindo e fechando um (acento indicativo de Crase) e d
 `código`
 ```
 ```
-   ```
-   Código | Nome | Nota
-   ---|---|---
-   1 | Hebert | 9,3
-   2 | Taty | 9,3
-   3 | Bernardo | 9,0
-   4 | Júlia | 9,0
-   ```
+Código | Nome | Nota
+---|---|---
+1 | Hebert | 9,3
+2 | Taty | 9,3
+3 | Bernardo | 9,0
+4 | Júlia | 9,0
 ```
+
