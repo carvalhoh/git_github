@@ -130,6 +130,7 @@ Pode-se inserir códigos, abrindo e fechando um (acento indicativo de Crase) e d
 ```
 `código`
 ```
+
 ```
 Código | Nome | Nota
 ---|---|---
