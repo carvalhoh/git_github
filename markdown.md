@@ -82,10 +82,16 @@ Pode-se criar uma lista demarcada, inserindo um (asterisco) ou (traço).
 
 #### Como criar lista de tarefas
 
-Pode-se criar uma lista de trarefas, colocando um (traço)(espaço) abre e fecha (colchetes), e para marcar como feito é só colocar um x dentro do (colchetes).
+Pode-se criar uma lista de trarefas, colocando um (traço)(espaço) um (espaço), abre e fecha (colchetes) e dentro dos (colchetes um espaço), e para marcar como feito é só colocar um x dentro do (colchetes).
 
 - [x] Criar repositório git_github
 - [x] Criar arquivo README.md
 - [x] Criar arquivo markdown.md
 - [ ] Continuar do Videoaula do Guia da Linguagem Markdown – Curso de Git e GitHub - 21:49
 - [ ] Ir alimentando o arquivo markdown.md
+
+### inserindo links
+
+Pode-se inserir imagens, colocando uma (exclamação), abre e fecha (colchetes), _dentro do colchetes_ colocar a descrição da imagen, despois abre e fecha (parenteses) URL ou caminha da imagen.
+
+![GitHub](./github-150x150)
