@@ -1,8 +1,6 @@
 # Linguagem MarkDown
 
-## Aprendendo sobre o MarkDown
-
-### Onde usamos o MarkDown
+## Onde usamos o MarkDown
 
 Usamos **MarkDown**:
 
@@ -11,59 +9,128 @@ Usamos **MarkDown**:
 * Pull request
 * arquivos com extensão ".md"
 ***
-### Trabalhando com títulos
+## Trabalhando com títulos
 
-se colocar uma (hashtag ou Tralha): Título 1
-**Exemplo**:
+se colocar uma \# Título 1
+
+**Exemplo:**
+
 # Titulo 1
 
-se colocar duas (hashtag ou Tralha): Título 1
+se colocar duas \#\# Título 2
+
 **Exemplo**:
+
 ## Titulo 2
-se colocar três (hashtag ou Tralha): Título 1
+
+se colocar três \#\#\# Título 3
+
 **Exemplo**:
+
 ### Titulo 3
-se colocar quatro (hashtag ou Tralha): Título 1
+
+se colocar quatro \#\#\#\# Título 4
+
 **Exemplo**:
+
 #### Titulo 4
-se colocar cinco (hashtag ou Tralha): Título 1
+
+se colocar cinco \#\#\#\#\# Título 5
+
 **Exemplo**:
+
 ##### Titulo 5
-se colocar seis (hashtag ou Tralha): Título 1
+
+se colocar seis \#\#\#\#\#\# Título 6
+
 **Exemplo**:
-##### Titulo 6
-***
-### Como deixar em negrito
 
-Podemos usar **"2 (asteriscos)" ou "2 (underline)" no início e no fim, da frase ou palavra**.
-
-### Como deixar em itálico
-
-Podemos usar _"1 (asterisco)" ou "1 (underline)" no início e no fim, da frase ou palavra_.
-
-### Como deixar com risco no meio
-
-Podemos usar ~~"2 acentos ou sinal gráfico de nasalação: til" no início e no fim, da frase ou palavra~~.
-
-### Como criar linha
-
----
-Pode-se criar linha com 3 traços ou asteriscos
+###### Titulo 6
 ***
 
-### Criando listas
+## Como deixar em negrito
 
-#### como criar lista numerada
+Podemos usar 2 \#\# ou 2 \_\_ no início e no fim, da frase ou palavra.
 
-Pode-se criar lista colocando, um número e um ponto:
+**Exemplo:**
+
+`Olá, ##Bom dia!## ou Olá, __Bom dia!__`
+
+**Resultado**
+
+Olá, ##Bom dia!## ou Olá, __Bom dia!__
+
+## Como deixar em itálico
+
+Podemos usar _um \* ou uma \_ no início e no fim, da frase ou palavra_.
+
+**Exemplo:**
+
+`Olá, #Bom dia!# ou Olá, _Bom dia!_`
+
+**Resultado**
+
+Olá, #Bom dia!# ou Olá, _Bom dia!_
+
+## Como deixar com risco no meio
+
+Podemos usar dois \~\~ no início e no fim, da frase ou palavra.
+
+**Exemplo:**
+
+`Olá, ~~Bom dia!~~`
+
+**Resultado**
+
+Olá, ~~Bom dia!~~
+
+## Como criar linha
+
+Pode-se criar linha com 3 \-\-\- ou \*\*\*
+
+**Exemplo:**
+
+`---` ou `***`
+
+__resultado__
+
+--- ou ***
+
+## Criando listas
+
+### como criar lista numerada
+
+Pode-se criar lista colocando, um número e um .:
+
+**Exemplo:**
+
+```
+1. item 1
+1. item 2
+2. item 3
+```
+
+__Resultado__
 
 1. item 1
 1. item 2
 2. item 3
 
-#### Inserindo subitem na lista numerada
+### Inserindo subitem na lista numerada
 
-Pode-se criar subitens na lista numerada, inserindo 3 espaços, seguidos de um número e um ponto.
+Pode-se criar subitens na lista numerada, inserindo 3 (espaços), seguidos de um número e um ponto.
+
+**Exemplo:**
+
+```
+1. item 1
+   1. subitem 1
+1. item 1
+   1. subitem 1
+   1. subitem 2
+```
+
+__Resultado:__
 
 1. item 1
    1. subitem 1
@@ -71,18 +138,41 @@ Pode-se criar subitens na lista numerada, inserindo 3 espaços, seguidos de um n
    1. subitem 1
    1. subitem 2
 
-#### Como criar lista demarcada
+### Como criar lista demarcada
 
-Pode-se criar uma lista demarcada, inserindo um (asterisco) ou (traço).
+Pode-se criar uma lista demarcada, inserindo um \* ou \-.
+
+**Exemplo:**
+
+```
+* item 1
+* item 2
+   - item 1
+   - item 2
+```
+
+__Resultado:__
 
 * item 1
 * item 2
    - item 1
    - item 2
 
-#### Como criar lista de tarefas
+### Como criar lista de tarefas
 
-Pode-se criar uma lista de trarefas, colocando um (traço)(espaço) um (espaço), abre e fecha (colchetes) e dentro dos (colchetes um espaço), e para marcar como feito é só colocar um x dentro do (colchetes).
+Pode-se criar uma lista de trarefas, colocando um \- um (espaço),  abre e fecha \[(espaço)\], e para marcar como feito é só colocar um x dentro do \[x\].
+
+**Exemplo:**
+
+```
+- [x] Criar repositório git_github
+- [x] Criar arquivo README.md
+- [x] Criar arquivo markdown.md
+- [x] Continuar do Videoaula do Guia da Linguagem Markdown – Curso de Git e GitHub - 21:49
+- [ ] Ir alimentando o arquivo markdown.md
+```
+
+__Resultado__
 
 - [x] Criar repositório git_github
 - [x] Criar arquivo README.md
@@ -90,9 +180,9 @@ Pode-se criar uma lista de trarefas, colocando um (traço)(espaço) um (espaço)
 - [x] Continuar do Videoaula do Guia da Linguagem Markdown – Curso de Git e GitHub - 21:49
 - [ ] Ir alimentando o arquivo markdown.md
 
-### Inserindo imagens
+## Inserindo imagens
 
-Pode-se inserir imagens, colocando uma (exclamação), abre e fecha (colchetes), _dentro do colchetes_ colocar a descrição da imagen(caso ao tentar abrir o arquivo e não conseguir, aparecera a descição), depois abre e fecha (parenteses) URL ou caminha da imagen.
+Pode-se inserir imagens, colocando uma \!\[descrição\]\(URL\).
 
 ```
 ![GitHub 1](https://github.com/carvalhoh/git_github/blob/main/img/github-150x150.jpg?raw=true)
@@ -102,11 +192,11 @@ Pode-se inserir imagens, colocando uma (exclamação), abre e fecha (colchetes),
 
 ![GitHub 1](https://github.com/carvalhoh/git_github/blob/main/img/github-150x150.jpg?raw=true)
 
-### Inserindo links
+## Inserindo links
 
-Pode-se inserir links, com abre e fecha (colchetes), _dentro do colchetes_ colocar a palavra ou frase, que será mostrada, depois abre e fecha (parenteses) URL ou caminha da imagen.
+Pode-se inserir links, \[palavra que será mostrada\]\(URL\).
 
-#### Minha midias
+### Minha midias
 
 **Exemplo:**
 
@@ -122,13 +212,15 @@ Pode-se inserir links, com abre e fecha (colchetes), _dentro do colchetes_ coloc
 
 [Meu linkedin](https://www.linkedin.com/in/carvalhohebert/)
 
-### Criando tabelas
+## Criando tabelas
 
 Pode-se criar tabelas, inserindo:
-No Cabeçalho(se quiser cololar) o nome(espaço)(pipe), e assim até terminar o seu cabeçalho, inserindo o item e o (pipe).
-para inserir as informações da tabela, é o mesmo processo, só que na linha de baixo.
+cabeçalho: nome \| nome2 \| nome3 ...
+Linha: \-\-\-\|\-\-\-\|\-\-\- ...
+conteúdo: teste1 \| teste2 \| teste3 ...
 
 **Exmplo do código:**
+
 ```
 Código | Nome | Nota
 ---|---|---
@@ -147,35 +239,51 @@ Código | Nome | Nota
 3 | Bernardo | 9,0
 4 | Júlia | 9,0
 
-### Inserindo comandos
+## Inserindo comandos
 
-Pode-se inserir códigos, abrindo e fechando um (acento indicativo de Crase) e dentro deles inserir o código, para um código pequeno, se for um código de várias linhas, abre e fecha três (acentos indicativos de Crase)
+Pode-se inserir códigos, \`Código de uma linha\`,
+\`\`\`
+Para
+mais
+de
+uma
+linha
+\`\`\`
 
 **Exemplo:**
 
 ```
-`print('Olá, Mundo!`
+`código de uma linha`
 ```
 
 **Resultado:**
 
-print('Olá, Mundo!
+`código de uma linha`
+
 
 **Exemplo:**
 
-```
-f = str(input('Digite a frase: ')).strip()
-print(f'\033[34m{f}.\033[m')
-```
+\`\`\`
+Para
+mais
+de
+uma
+linha
+\`\`\`
 
 **Resultado**
 
-f = str(input('Digite a frase: ')).strip()
-print(f'\033[34m{f}.\033[m')
+```
+Para
+mais
+de
+uma
+linha
+```
 
-### Inserindo emojis
+## Inserindo emojis
 
-Pode-se inserir emojis, colocando `:` e o nome do emoji e `:`:
+Pode-se inserir emojis, colocando \:nome do emoji\:.
 
 **Exemplo:**
 
@@ -185,9 +293,9 @@ Pode-se inserir emojis, colocando `:` e o nome do emoji e `:`:
 
 Eu gosto de livros :books:
 
-### inserindo citações
+## inserindo citações
 
-Pode-se inserir citações, inserindo um sinal de maior `>` na frente da frase em cada linha.
+Pode-se inserir citações, inserindo um sinal de maior \> na frente da frase em cada linha.
 
 **Exemplo:**
 
