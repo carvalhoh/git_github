@@ -94,6 +94,11 @@ Pode-se criar uma lista de trarefas, colocando um (traço)(espaço) um (espaço)
 
 Pode-se inserir imagens, colocando uma (exclamação), abre e fecha (colchetes), _dentro do colchetes_ colocar a descrição da imagen(caso ao tentar abrir o arquivo e não conseguir, aparecera a descição), depois abre e fecha (parenteses) URL ou caminha da imagen.
 
+```
+![GitHub 1](https://github.com/carvalhoh/git_github/blob/main/img/github-150x150.jpg?raw=true)
+```
+
+**Resultado:**
 
 ![GitHub 1](https://github.com/carvalhoh/git_github/blob/main/img/github-150x150.jpg?raw=true)
 
@@ -102,6 +107,16 @@ Pode-se inserir imagens, colocando uma (exclamação), abre e fecha (colchetes),
 Pode-se inserir links, com abre e fecha (colchetes), _dentro do colchetes_ colocar a palavra ou frase, que será mostrada, depois abre e fecha (parenteses) URL ou caminha da imagen.
 
 #### Minha midias
+
+**Exemplo:**
+
+```
+[Meu GitHub](https://github.com/carvalhoh/)
+
+[Meu linkedin](https://www.linkedin.com/in/carvalhohebert/)
+```
+
+**Resultado:**
 
 [Meu GitHub](https://github.com/carvalhoh/)
 
@@ -113,31 +128,81 @@ Pode-se criar tabelas, inserindo:
 No Cabeçalho(se quiser cololar) o nome(espaço)(pipe), e assim até terminar o seu cabeçalho, inserindo o item e o (pipe).
 para inserir as informações da tabela, é o mesmo processo, só que na linha de baixo.
 
+**Exmplo do código:**
+```
 Código | Nome | Nota
 ---|---|---
 1 | Hebert | 9,3
 2 | Taty | 9,3
 3 | Bernardo | 9,0
 4 | Júlia | 9,0
+```
 
-Terminou a tabela
+**Resultado:**
+
+Código | Nome | Nota
+---|---|---
+1 | Hebert | 9,3
+2 | Taty | 9,3
+3 | Bernardo | 9,0
+4 | Júlia | 9,0
 
 ### Inserindo comandos
 
 Pode-se inserir códigos, abrindo e fechando um (acento indicativo de Crase) e dentro deles inserir o código, para um código pequeno, se for um código de várias linhas, abre e fecha três (acentos indicativos de Crase)
 
 **Exemplo:**
-```
-`código`
-```
-![Exemplo código em muitas linhas](https://github.com/carvalhoh/git_github/blob/main/img/codigos.JPG)
 
 ```
-Código | Nome | Nota
----|---|---
-1 | Hebert | 9,3
-2 | Taty | 9,3
-3 | Bernardo | 9,0
-4 | Júlia | 9,0
+`print('Olá, Mundo!`
 ```
 
+**Resultado:**
+
+print('Olá, Mundo!
+
+**Exemplo:**
+
+```
+f = str(input('Digite a frase: ')).strip()
+print(f'\033[34m{f}.\033[m')
+```
+
+**Resultado**
+
+f = str(input('Digite a frase: ')).strip()
+print(f'\033[34m{f}.\033[m')
+
+### Inserindo emojis
+
+Pode-se inserir emojis, colocando `:` e o nome do emoji e `:`:
+
+**Exemplo:**
+
+`Eu gosto de livros :books:`
+
+**Resultado:**
+
+Eu gosto de livros :books:
+
+### inserindo citações
+
+Pode-se inserir citações, inserindo um sinal de maior `>` na frente da frase em cada linha.
+
+**Exemplo:**
+
+```
+Como **Steve Jobs** disse uma vez:
+
+> *Decidir* o que não fazer é tão
+> _Importante_ quanto decidir
+> o que fazer.
+```
+
+**Resultado:**
+
+Como **Steve Jobs** disse uma vez:
+
+> *Decidir* o que não fazer é tão
+> _Importante_ quanto decidir
+> o que fazer.
