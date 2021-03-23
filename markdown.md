@@ -70,7 +70,7 @@ Podemos usar _um \* ou uma \_ no início e no fim, da frase ou palavra_.
 
 **Resultado**
 
-Olá, #Bom dia!# ou Olá, _Bom dia!_
+Olá, *Bom dia!* ou Olá, _Bom dia!_
 
 ## Como deixar com risco no meio
 
@@ -94,7 +94,9 @@ Pode-se criar linha com 3 \-\-\- ou \*\*\*
 
 __resultado__
 
---- ou ***
+---
+ou
+***
 
 ## Criando listas
 
