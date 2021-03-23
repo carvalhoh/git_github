@@ -50,15 +50,15 @@ se colocar seis \#\#\#\#\#\# Título 6
 
 ## Como deixar em negrito
 
-Podemos usar 2 \#\# ou 2 \_\_ no início e no fim, da frase ou palavra.
+Podemos usar 2 \*\* ou 2 \_\_ no início e no fim, da frase ou palavra.
 
 **Exemplo:**
 
-`Olá, ##Bom dia!## ou Olá, __Bom dia!__`
+`Olá, **Bom dia!** ou Olá, __Bom dia!__`
 
 **Resultado**
 
-Olá, ##Bom dia!## ou Olá, __Bom dia!__
+Olá, **Bom dia!** ou Olá, __Bom dia!__
 
 ## Como deixar em itálico
 
